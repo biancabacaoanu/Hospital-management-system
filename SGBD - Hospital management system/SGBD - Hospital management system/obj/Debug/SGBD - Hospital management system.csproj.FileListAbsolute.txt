@@ -1,0 +1,24 @@
+C:\Users\octav\source\repos\SGBD - Hospital management system\SGBD - Hospital management system\bin\Debug\SGBD - Hospital management system.exe.config
+C:\Users\octav\source\repos\SGBD - Hospital management system\SGBD - Hospital management system\bin\Debug\SGBD - Hospital management system.exe
+C:\Users\octav\source\repos\SGBD - Hospital management system\SGBD - Hospital management system\bin\Debug\SGBD - Hospital management system.pdb
+C:\Users\octav\source\repos\SGBD - Hospital management system\SGBD - Hospital management system\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\octav\source\repos\SGBD - Hospital management system\SGBD - Hospital management system\obj\Debug\SGBD - Hospital management system.csprojAssemblyReference.cache
+C:\Users\octav\source\repos\SGBD - Hospital management system\SGBD - Hospital management system\obj\Debug\SGBD___Hospital_management_system.Properties.Resources.resources
+C:\Users\octav\source\repos\SGBD - Hospital management system\SGBD - Hospital management system\obj\Debug\SGBD - Hospital management system.csproj.GenerateResource.cache
+C:\Users\octav\source\repos\SGBD - Hospital management system\SGBD - Hospital management system\obj\Debug\SGBD - Hospital management system.csproj.CoreCompileInputs.cache
+C:\Users\octav\source\repos\SGBD - Hospital management system\SGBD - Hospital management system\obj\Debug\SGBD - Hospital management system.csproj.CopyComplete
+C:\Users\octav\source\repos\SGBD - Hospital management system\SGBD - Hospital management system\obj\Debug\SGBD - Hospital management system.exe
+C:\Users\octav\source\repos\SGBD - Hospital management system\SGBD - Hospital management system\obj\Debug\SGBD - Hospital management system.pdb
+C:\Users\octav\source\repos\SGBD - Hospital management system\SGBD - Hospital management system\obj\Debug\SGBD___Hospital_management_system.Asistent.resources
+C:\Users\octav\source\repos\SGBD - Hospital management system\SGBD - Hospital management system\obj\Debug\SGBD___Hospital_management_system.Meniu.resources
+C:\Users\octav\source\repos\SGBD - Hospital management system\SGBD - Hospital management system\obj\Debug\SGBD___Hospital_management_system.Sectie.resources
+C:\Users\octav\source\repos\SGBD - Hospital management system\SGBD - Hospital management system\obj\Debug\SGBD___Hospital_management_system.Raport.resources
+C:\Users\octav\source\repos\SGBD - Hospital management system\SGBD - Hospital management system\obj\Debug\SGBD___Hospital_management_system.Doctor.resources
+C:\Users\octav\source\repos\SGBD - Hospital management system\SGBD - Hospital management system\obj\Debug\SGBD___Hospital_management_system.Tratament.resources
+C:\Users\octav\source\repos\SGBD - Hospital management system\SGBD - Hospital management system\obj\Debug\SGBD___Hospital_management_system.Diagnostic.resources
+C:\Users\octav\source\repos\SGBD - Hospital management system\SGBD - Hospital management system\obj\Debug\SGBD___Hospital_management_system.Fisa_Pacient.resources
+C:\Users\octav\source\repos\SGBD - Hospital management system\SGBD - Hospital management system\obj\Debug\SGBD___Hospital_management_system.Fisa_tratament.resources
+C:\Users\octav\source\repos\SGBD - Hospital management system\SGBD - Hospital management system\obj\Debug\SGBD___Hospital_management_system.Pacient.resources
+C:\Users\octav\source\repos\SGBD - Hospital management system\SGBD - Hospital management system\obj\Debug\SGBD___Hospital_management_system.Salariu.resources
+C:\Users\octav\source\repos\SGBD - Hospital management system\SGBD - Hospital management system\obj\Debug\SGBD___Hospital_management_system.Factura.resources
+C:\Users\octav\source\repos\SGBD - Hospital management system\SGBD - Hospital management system\obj\Debug\SGBD___Hospital_management_system.Injection.resources
